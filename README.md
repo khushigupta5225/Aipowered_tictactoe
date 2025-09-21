@@ -33,15 +33,5 @@
 
 ---
 
-## 🔧 How to Run Locally
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/eaglemk21/TicTacGlow.git
-   Go to the folder:
-
-2. cd TicTacGlow
-
-3. Open index.html in your browser to start playing!
 
 
